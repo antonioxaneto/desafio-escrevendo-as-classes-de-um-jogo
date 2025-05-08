@@ -1,5 +1,5 @@
 <h1>🧙‍♂ Desafio Classe de Heroi - DIO</h1>
-<p>Este projeto foi desenvolvido como parte do desafio de orientação a objetos da DIO. Nele, criamos uma classe genérica para representar um herói de aventura com diferentes tipos de ataque, dependendo de sua especialização (mago, guerreiro, monge ou ninja).
+<p>Este projeto foi desenvolvido como parte do desafio de orientação a objetos da DIO. Criei uma classe genérica para representar um herói de aventura com diferentes tipos de ataque, dependendo de sua especialização (mago, guerreiro, monge ou ninja).
 </p>
 
 <h2>🛠️ Tecnologias</h2>
